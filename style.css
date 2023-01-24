@@ -1,0 +1,15 @@
+#app{
+    background-color: blueviolet;
+}
+.line{
+    height: 6px;
+    background-color: gray;
+    width: 70px;
+    margin: 8px auto;
+}
+#juegos{
+    background-color: blanchedalmond;
+}
+body{
+    text-align: center;
+}
